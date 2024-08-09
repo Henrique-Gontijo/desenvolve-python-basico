@@ -1,0 +1,6 @@
+ATENÇÂO!
+
+Este é um arquivo que tem como única função preencher as pastas pertencentes aos módulos da disciplina de Introdução ao Python, pois o GitHub não permite
+o UpLoad de pastas vazias. 
+
+Agradeço a sua compreensão.
