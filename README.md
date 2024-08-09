@@ -1,2 +1,5 @@
-# desenvolve-python-basico
-Repositório contendo os exercícios referentes ao módulo de python básico
+#Projeto Desenvolve: Introdução à programação em Python
+Cidade: Bom Despacho-MG
+Disciplina: Introdução à Programação em Python
+Número de matrícula: PDBD005
+Nome do aluno: Henrique Lelles Gontijo
