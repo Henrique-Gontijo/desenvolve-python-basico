@@ -1,12 +1,4 @@
 <html>
-<head>
-    <style>
-    html: {
-          font-size:16px;
-          font-family: 'Trebuchet MS'
-        }
-</style>
-</head>
 <body>
     <h1>Projeto Desenvolve: Introdução à programação em Python</h1>
     <ul>
