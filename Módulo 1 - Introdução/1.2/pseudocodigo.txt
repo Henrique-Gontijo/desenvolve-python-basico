@@ -1,0 +1,7 @@
+1. Início;
+2. Leia X; #Entrada
+3. D = X - 1; #Processamento
+4. U = 10 - X; #Processamento
+5. Z = (D * 10) + U #Processamento
+6. Imprima Z; #Saída
+7. Fim;
