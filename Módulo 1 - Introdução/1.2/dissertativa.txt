@@ -1,5 +1,0 @@
-1.  Leia  do teclado e armazene o número que se deseja multiplicar por 9;  #Entrada
-2. Aplique ama operação subtraindo 1 do valor recebido e armazene o resultado com o nome "digito1"; #Processamento
-3. Aplique uma operação  subtraindo o valor recebido de 10 e armazene o resultado com o nome "digito2"; #Processamento
-4. Aplique uma operação multiplicando o "digito1" por 10, some o resultado dessa multiplicação ao "digito2" e armazene o resultado; #Processamento
-5. Apresente o resultado da soma (resultado final) e finalize o programa. #Saída
